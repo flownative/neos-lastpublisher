@@ -17,3 +17,5 @@
         inspector:
           editor: 'Flownative.Neos.LastPublisher/PublishingHistoryEditor'
           group: 'history'
+      search:
+        indexing: false
